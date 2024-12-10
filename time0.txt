@@ -1,0 +1,2028 @@
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 8.869e-06 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 3.014e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000748992 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.0428e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 6.565e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00166383 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.4156e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.776e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00120649 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 6.774e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.528e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000954684 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.3569e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.713e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000943605 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 6.543e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.935e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000938577 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.1713e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.838e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000670961 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.3009e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 7.778e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.0017436 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.4051e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.575e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000912213 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.3741e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 1.0113e-05 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00211624 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.2309e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.742e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000693727 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.3756e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 4.229e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.0011513 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.6939e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 8.544e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000772736 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.119e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 6.278e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00144511 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.1589e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 6.524e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00103774 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.2157e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 1.115e-05 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00130076 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.0616e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 3.074e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000740464 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 5.34e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.947e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000642193 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.0421e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.637e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000875571 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 4.334e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.922e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000786716 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.4822e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.543e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00119621 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.4904e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 9.29e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00129739 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.7667e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.476e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000941746 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.0848e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 4.428e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00145617 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.0129e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.681e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000754128 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 8.638e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.991e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000989494 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.4019e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.529e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00104728 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.6275e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 1.0212e-05 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00204032 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 9.58e-06 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.917e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000872156 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 4.846e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.812e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00106759 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.0813e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.841e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00121982 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 7.405e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.788e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00105071 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.0592e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.996e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00095718 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 3.919e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 6.541e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000927503 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 9.734e-06 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.705e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000897767 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.1162e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 6.35e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00149522 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.6651e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 3.174e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.0015544 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.2537e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 6.597e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00105937 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 2.5463e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 1.0558e-05 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00146312 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.0554e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 6.366e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00122593 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.4683e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 8.645e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00159148 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.0637e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 6.19e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00129035 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.0914e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.837e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00104919 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 5.872e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 3.219e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00116633 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.2932e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.522e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000935466 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 8.664e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.728e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00171949 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.5524e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 3.505e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000841844 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 6.282e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.523e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00122334 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.483e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.5e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000969185 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 9.357e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 3.868e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00162528 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.3162e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 8.205e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00136875 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 8.796e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 3.287e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00149072 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.9489e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 9.152e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00149616 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 4.55e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.749e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000864872 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.6579e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.64e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000991395 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 6.432e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.685e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00108761 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 9.155e-06 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.988e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00103648 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 6.747e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.63e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000768421 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.1891e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.422e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00115802 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 8.153e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 3.57e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00129152 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.0674e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.848e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00110629 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 4.137e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.844e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000867569 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.4749e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.763e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000889077 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 6.428e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.934e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00107537 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.0149e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 3.086e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000670119 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 9.134e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 3.789e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.001341 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.143e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.978e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00093411 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 9.948e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.786e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00106167 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.7462e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 1.0464e-05 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00146876 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 3.98e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.929e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000932465 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.5808e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 9.079e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00121546 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 8.078e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 9.274e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00105808 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.5189e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.571e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00127189 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.1014e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 6.609e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.0011231 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 2.2009e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 8.252e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00112402 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.0029e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 6.658e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00100483 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.0824e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.788e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000743686 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.1515e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 6e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00124349 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.5438e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 9.006e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00105739 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 5.918e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.456e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00138508 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.8883e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 6.064e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000928258 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 9.999e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 6.567e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00105806 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.7163e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 1.0122e-05 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00113198 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.1676e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.931e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000828535 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.5139e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 9.098e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000952394 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 4.282e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.858e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00133031 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.5289e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 8.906e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00111849 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.1326e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 8.418e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00164725 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.4015e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 3.507e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00116098 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 6.452e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.508e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000963379 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.4231e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 3.37e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00099763 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 5.746e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 1.148e-05 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00138659 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 2.2227e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 3.667e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00129665 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 8.677e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 7.517e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000905588 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.5097e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.55e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.0011194 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 1.2518e-05 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 5.911e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00140922 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 2.3942e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 6.167e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00141636 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 6.868e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 3.612e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00112291 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 8.992e-06 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.581e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000830574 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 4.576e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.695e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00120984 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.3218e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.918e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000671305 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: 7ae11100061b69742e9da21a15088f35abf17886510d26ec6e9d90fb660d9929
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 8.662e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 2.67e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00139645 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/compare.mpc
+Writing to Programs/Schedules/compare.sch
+Writing to Programs/Bytecode/compare-0.bc
+Hash: 6a1f98609352a6fdf88a6b159ae2dbd7304e485b7905004468eae04076a76003
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+         766 bit triples
+          11 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.024514 MB in 4 rounds, taking 1.0308e-05 seconds
+Sending directly 1.6e-05 MB in 1 rounds, taking 2.967e-06 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.000712808 seconds 
+Data sent = 1.6e-05 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.024546 MB (all parties)
+stdout:
+Default bit length for compilation: 256
+Compiling file Programs/Source/xor_theta_gama.mpc
+Writing to Programs/Schedules/xor_theta_gama.sch
+Writing to Programs/Bytecode/xor_theta_gama-0.bc
+Hash: ba7e6a5d84093c3562285ac4fed64c6bcb10db258c9beb01913a0415ce4195ba
+Program requires at most:
+         512 bit inputs from player 0
+         512 bit inputs from player 1
+           2 virtual machine rounds
+
+
+stderr:
+Receiving directly 0.001024 MB in 4 rounds, taking 8.382e-06 seconds
+Sending directly 0.000128 MB in 1 rounds, taking 1.0647e-05 seconds
+The following benchmarks are including preprocessing (offline phase).
+Time = 0.00102626 seconds 
+Data sent = 0.000128 MB in ~6 rounds (party 1 only; use '-v' for more details)
+Global data sent = 0.001168 MB (all parties)

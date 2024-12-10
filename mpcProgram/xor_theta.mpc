@@ -1,0 +1,24 @@
+level = 2
+path = [0, 1, 0, 1, 0]
+
+
+
+
+sb256 = sbits.get_type(256)
+
+a = []
+for i in range(2):
+    a.append(sb256.get_input_from(0))
+
+b = []
+for i in range(2):
+    b.append(sb256.get_input_from(1))
+
+t_level = path[level] ^ 1
+theta = a[t_level] ^ b[t_level]
+tao0 = a[0] ^ b[0] ^ path[level] ^ 1
+tao1 = a[1] ^ b[1] ^ path[level]
+
+print_ln('theta: %s', theta.reveal())
+print_ln('tao0: %s', tao0.reveal())
+print_ln('tao1: %s', tao1.reveal())

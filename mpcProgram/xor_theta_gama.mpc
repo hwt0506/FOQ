@@ -1,0 +1,24 @@
+level = 26
+path = [0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0]
+beta = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+beta[0] = 1
+path[27] = 1
+
+a = [sint(0), sint(0)]
+a[0] = sint.get_input_from(0)
+a[1] = sint.get_input_from(0)
+
+b = [sint(0), sint(0)]
+b[0] = sint.get_input_from(1)
+b[1] = sint.get_input_from(1)
+
+t_level = path[level] ^ 1
+theta = a[t_level] ^ b[t_level]
+tao0 = a[0] ^ b[0] ^ path[level] ^ 1
+tao1 = a[1] ^ b[1] ^ path[level]
+gama = a[path[level]] ^ b[path[level]] ^ theta ^ beta[level]
+
+print_ln('%s', theta.reveal())
+print_ln('%s', tao0.reveal())
+print_ln('%s', tao1.reveal())
+print_ln('%s', gama.reveal())

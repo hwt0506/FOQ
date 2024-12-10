@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FloramOQueue Visualization</title>
+<style>
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        margin-bottom: 10px; /* 增加行间距 */
+    }
+    .container > * {
+        margin-right: 10px; /* 按钮和文本框之间增加空隙 */
+    }
+    .box {
+        border: 1px solid black;
+        padding: 5px;
+        margin: 5px;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <button onclick="initialize()">Init</button>
+    请输入数据路径：<input type="text" id="dataPath">
+</div>
+<div class="container">
+    请输入索引：<input type="text" id="indexInput">
+    <button onclick="readElement()">Read</button>
+    value：<input type="text" id="readValue" readonly>
+</div>
+<div class="container">
+    <button onclick="pushElement()">Push</button>
+    <input type="text" id="elementInput">
+    <button onclick="popElement()">Pop</button>
+</div>
+<div class="container">
+    请输入数据：<input type="text" id="writeDataInput">
+    请输入索引：<input type="text" id="indexInput">
+    <button onclick="writeElement()">Write</button>
+</div>
+<div id="visualization" class="container"></div>
+<div id="copies" class="container"></div>
+
+<script>
+    class FloramOQueue {
+        constructor(level, levelCount, foq) {
+            this.level = level;
+            this.elementCount = Math.pow(2, this.level);
+            this.up = Array.from({ length: 3 }, () => Array(this.elementCount).fill(0));
+            this.down = Array.from({ length: 3 }, () => Array(this.elementCount).fill(0));
+            this.head = -1;
+            this.tail = -1;
+            this.write_stashIndex = [];
+            this.write_stashValue = [];
+
+            if (this.level === levelCount - 1 || foq === null) {
+                this.next = null;
+            } else {
+                this.next = foq[this.level + 1];
+            }
+        }
+
+        foq_push(value, levelCount, foq) {
+            this.tail += 1;
+            this.down[this.tail] = value;
+            if (this.head === 2 && this.tail === 1 && this.next === null) {
+                levelCount += 1;
+                const temp = new FloramOQueue(this.level + 1, levelCount, foq);
+                foq.push(temp);
+                this.next = foq[foq.length - 1];
+            }
+
+            if (this.next === null) {
+                if (this.tail === 2 && this.head === -1) {
+                    const temp = JSON.parse(JSON.stringify(this.up));
+                    this.up = JSON.parse(JSON.stringify(this.down));
+                    this.down = temp;
+                    this.tail = -1;
+                    this.head = 2;
+                }
+            } else {
+                if (this.tail === 2) {
+                    levelCount = this.next.foq_push(this.down.shift().concat(this.down.shift()), levelCount, foq);
+                    this.down.push(Array(this.elementCount).fill(0));
+                    this.down.push(Array(this.elementCount).fill(0));
+                    this.tail -= 2;
+                }
+            }
+            return levelCount;
+        }
+
+        foq_pop(levelCount) {
+            if (this.level === levelCount - 1 && this.head === -1 && this.tail !== -1) {
+                const temp = JSON.parse(JSON.stringify(this.up));
+                this.up = JSON.parse(JSON.stringify(this.down));
+                this.head = this.tail;
+                this.down = temp;
+                this.tail = -1;
+            }            
+	    if (this.head <= 0 && this.next) {
+                const [v, newLevelCount] = this.next.foq_pop(levelCount);
+		levelCount = newLevelCount;
+                this.up[this.head + 1] = v.slice(0, this.elementCount);
+                this.up[this.head + 2] = v.slice(this.elementCount);
+                this.head += 2;
+                if (this.next.head === -1 && this.next.tail === -1) {
+                    this.next = null;
+                    levelCount -= 1;
+                }
+            }
+
+            const value = this.up.shift();
+            this.up.push(Array(this.elementCount).fill(0));
+            this.head -= 1;
+            return [value, levelCount];
+        }
+
+        write_temp(index, ifdown, value) {
+            this.write_stashIndex.push([index, ifdown]);
+            this.write_stashValue.push(value);
+        }
+
+        print_state() {
+            console.log("Level:", this.level);
+            console.log("Head:", this.head);
+            console.log("Tail:", this.tail);
+            console.log("Up:", this.up);
+            console.log("Down:", this.down);
+            console.log("---------------------------");
+        }
+    }
+
+    let levelCount = 1;
+    const foq = [new FloramOQueue(0, levelCount, null)];
+    window.onload = function() {
+        for (let i = 0; i < 100; i++) {
+            levelCount = foq[0].foq_push([i], levelCount, foq);
+        }
+        visualize();
+        generateCopies();
+    };
+
+    function visualize() {
+        const visualizationDiv = document.getElementById('visualization');
+        visualizationDiv.innerHTML = '';
+        foq.forEach(queue => {
+            const queueDiv = document.createElement('div');
+            queueDiv.className = 'box';
+            visualizationDiv.appendChild(queueDiv);
+            // Up
+            queue.up.forEach((row, rowIndex) => {
+                const rowDiv = document.createElement('div');
+                rowDiv.textContent = `[${row.join(', ')}]`;
+                queueDiv.appendChild(rowDiv);
+                if (rowIndex === 2) {
+                    const separatorDiv = document.createElement('div');
+                    separatorDiv.textContent = '---';
+                    queueDiv.appendChild(separatorDiv);
+                }
+            });
+            // Down
+            queue.down.forEach((row, rowIndex) => {
+                const rowDiv = document.createElement('div');
+                rowDiv.textContent = `[${row.join(', ')}]`;
+                queueDiv.appendChild(rowDiv);
+                if (rowIndex === 2) {
+                    const separatorDiv = document.createElement('div');
+                    separatorDiv.textContent = '---';
+                    queueDiv.appendChild(separatorDiv);
+                }
+            });
+        });
+    }
+
+    function pushElement() {
+        const elementInput = document.getElementById('elementInput');
+        const elementValue = elementInput.value;
+        levelCount = foq[0].foq_push([parseInt(elementValue)], levelCount, foq);
+        visualize();
+    }
+
+    function popElement() {
+        const [value, newLevelCount] = foq[0].foq_pop(levelCount);
+        console.log('Popped value:', value);
+        levelCount = newLevelCount;
+        // Remove empty levels
+        while (foq.length > newLevelCount) {
+            foq.pop();
+        }
+        visualize();
+    }
+
+    function initialize() {
+        const dataPath = document.getElementById('dataPath').value;
+        fetch(dataPath)
+            .then(response => response.text())
+            .then(data => {
+                const lines = data.split('\n');
+                lines.forEach(line => {
+                    if (line.trim()) {
+                        levelCount = foq[0].foq_push([parseInt(line)], levelCount, foq);
+                    }
+                });
+                visualize();
+            })
+            .catch(error => console.error('Error reading file:', error));
+    }
+
+    function readElement() {
+        const indexInput = document.getElementById('indexInput').value;
+        const index = parseInt(indexInput);
+        const [level, ifdown, path] = clientComputePath(foq, index);
+        let currentNode = foq[level];
+        let value;
+        if (ifdown) {
+            value = currentNode.down[path.length - 1];
+        } else {
+            value = currentNode.up[path.length - 1];
+        }
+        document.getElementById('readValue').value = value;
+    }
+
+    function clientComputePath(foq, index) {
+        const levelCount = foq.length;
+        let ifdown = false;
+        const levelEle = [];
+        let level = 0;
+        let index_cp = index;
+        while (level < levelCount) {
+            levelEle.push((foq[level].head + 1) * foq[level].elementCount);
+            if (index_cp <= levelEle[levelEle.length - 1]) {
+                break;
+            } else {
+                index_cp -= levelEle[levelEle.length - 1];
+                level++;
+            }
+        }
+
+        if (level === levelCount) {
+            ifdown = true;
+            level--;
+            let level_mirror = level;
+            while (level_mirror > 0) {
+                levelEle.push((foq[level_mirror].tail + 1) * foq[level_mirror].elementCount);
+                if (index_cp <= levelEle[levelEle.length - 1]) {
+                    break;
+                } else {
+                    index_cp -= levelEle[levelEle.length - 1];
+                    level_mirror--;
+                }
+            }
+            level = level_mirror;
+        }
+
+        let path = index_cp.toString(2);
+        path = path.split('').map(char => char === '1');
+
+        return [level, ifdown, path];
+    }
+
+    function generateCopies() {
+        const copiesDiv = document.getElementById('copies');
+        const writeCopy = Array.from({ length: 100 }, (_, i) => i);
+        const readCopy = Array(100).fill('*');
+
+        const writeCopyDiv = document.createElement('div');
+        writeCopyDiv.textContent = `Write_copy: ${JSON.stringify(writeCopy)}`;
+        copiesDiv.appendChild(writeCopyDiv);
+
+        const readCopyDiv = document.createElement('div');
+        readCopyDiv.textContent = `Read_copy: ${JSON.stringify(readCopy)}`;
+        copiesDiv.appendChild(readCopyDiv);
+    }
+</script>
+</body>
+</html>

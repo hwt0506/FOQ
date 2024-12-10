@@ -1,0 +1,17 @@
+level = 2
+path = [0, 1, 0, 1, 0]
+beta = 1
+theta = 0
+
+sb256 = sbits.get_type(256)
+
+a = []
+for i in range(2):
+    a.append(sb256.get_input_from(0))
+
+b = []
+for i in range(2):
+    b.append(sb256.get_input_from(1))
+
+gama = a[path[level]] ^ b[path[level]] ^ theta ^ beta
+print_ln('gama: %s', gama.reveal())

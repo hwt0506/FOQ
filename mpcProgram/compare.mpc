@@ -1,0 +1,16 @@
+b = sint(50)
+
+a0 = sint.get_input_from(0)
+Sa_0 = sint.get_input_from(0)
+a1 = sint.get_input_from(1)
+Sa_1 = sint.get_input_from(1)
+
+Sa = Sa_0.bit_xor(Sa_1)
+aS = a0.bit_xor(a1)
+a = Sa.bit_xor(aS)
+
+c0 = (a == b)
+c1 = (a > b)
+
+print_ln('%s', c0.reveal())
+print_ln('%s', c1.reveal())
